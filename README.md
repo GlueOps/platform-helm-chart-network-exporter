@@ -41,7 +41,7 @@ Prometheus exporter for monitoring ICMP,MTR,TCP,HTTP probes from all nodes in th
 | fullnameOverride | string | `""` |  |
 | image.pullPolicy | string | `"IfNotPresent"` |  |
 | image.repository | string | `"syepes/network_exporter"` |  |
-| image.tag | string | `"1.7.10@sha256:66b0468ca13c59556b2658eaa31520e615c83cdafb4b194a0e792ebe7630ef69"` |  |
+| image.tag | string | `"1.8.0@sha256:00af1691570e84bb0d8839d934e1ca10e9ee018385463609e03a8137e0ea9c56"` |  |
 | imagePullSecrets | list | `[]` |  |
 | ingress.annotations | object | `{}` |  |
 | ingress.className | string | `""` |  |
